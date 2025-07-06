@@ -13,4 +13,4 @@ Software utilizzato: QGIS 3.30.4
 Il risultato finale è un GeoTIFF ritagliato sull'estensione del territorio comunale di Laurito.
 
 ## Licenza
-I dati cartografici (CTR) utilizzati in questo progetto sono stati scaricati dal Geoportale della Regione Campania, distribuiti secondo la Italian Open Data License v2.0. Puoi usare, modificare e ridistribuire questi dati, purché vengano citati l’origine e la licenza.
+I dati cartografici (CTR) utilizzati in questo progetto sono stati scaricati dal Geoportale della Regione Campania, distribuiti secondo la Italian Open Data License v2.0.

@@ -23,5 +23,3 @@ I dati cartografici (CTR) utilizzati in questo progetto sono stati scaricati dal
 
 ## Accesso alla visualizzazione della mappa
 https://candid-sprite-43dda5.netlify.app/#13/40.1695/15.4045
-
-## Download mappa

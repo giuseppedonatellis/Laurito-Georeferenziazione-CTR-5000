@@ -20,7 +20,3 @@ Il risultato finale è un file GeoTIFF georeferenziato, ritagliato sull’estens
 ## Licenza
 
 I dati cartografici (CTR) utilizzati in questo progetto sono stati scaricati dal Geoportale della Regione Campania, distribuiti secondo la Italian Open Data License v2.0.
-
-## Accesso ai dati
-
-I file del progetto relativo alla georeferenziazione delle carte topografiche in scala 1:5000 del Comune di Laurito (SA) sono disponibili a questo link: https://drive.google.com/file/d/1uoEtVx7f0xgbX8QALU6B6OpiZx1a_kn_/view?usp=drive_link

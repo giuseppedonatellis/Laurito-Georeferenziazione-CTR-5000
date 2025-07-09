@@ -1,4 +1,4 @@
-# Laurito - Frane - Analisi Cartografica
+# Laurito - Georeferenziazione - CTR - 5000
 
 Questo progetto documenta il processo di georeferenziazione delle carte topografiche in scala 1:5000 del Comune di **Laurito (SA)**, e include le seguenti fasi:
 
@@ -23,4 +23,4 @@ I dati cartografici (CTR) utilizzati in questo progetto sono stati scaricati dal
 
 ## Accesso ai dati
 
-I file completi relativi alla georeferenziazione delle carte topografiche in scala 1:5000 del Comune di Laurito (SA) sono disponibili a questo link: https://drive.google.com/file/d/1uoEtVx7f0xgbX8QALU6B6OpiZx1a_kn_/view?usp=drive_link
+I file del progetto relativo alla georeferenziazione delle carte topografiche in scala 1:5000 del Comune di Laurito (SA) sono disponibili a questo link: https://drive.google.com/file/d/1uoEtVx7f0xgbX8QALU6B6OpiZx1a_kn_/view?usp=drive_link

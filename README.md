@@ -1,4 +1,4 @@
-# Laurito - Georeferenziazione - CTR - 5000
+# Laurito - Georeferenziazione - CTR-5000
 
 Questo progetto documenta il processo di georeferenziazione delle carte topografiche in scala 1:5000 del Comune di **Laurito (SA)**, e include le seguenti fasi:
 

@@ -20,3 +20,8 @@ Il risultato finale è un file GeoTIFF georeferenziato, ritagliato sull’estens
 ## Licenza
 
 I dati cartografici (CTR) utilizzati in questo progetto sono stati scaricati dal Geoportale della Regione Campania, distribuiti secondo la Italian Open Data License v2.0.
+
+## Accesso alla visualizzazione della mappa
+https://candid-sprite-43dda5.netlify.app/#13/40.1695/15.4045
+
+## Download mappa

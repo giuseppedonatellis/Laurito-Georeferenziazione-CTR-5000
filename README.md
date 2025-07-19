@@ -13,6 +13,11 @@ Questo progetto documenta il processo di georeferenziazione delle carte topograf
 
 ---
 
+## Autore
+Giuseppe Donatellis
+
+---
+
 ## Software utilizzato
 
 - QGIS versione 3.30.4
